@@ -1,1 +1,1 @@
-# brainwave_motor
+# brainwave motor
